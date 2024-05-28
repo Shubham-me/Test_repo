@@ -3,5 +3,5 @@ def factorial(n):
     for i in range(2,n+1):
         res *= i
     return res
-n = 10
+n = 20
 print(factorial(n))
